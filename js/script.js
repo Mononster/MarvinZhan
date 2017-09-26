@@ -49,7 +49,7 @@ $(function() {
     
       $.ajax({
           method: 'POST',
-          url: '//formspree.io/yujiac8000@gmail.com',
+          url: '//formspree.io/marvinzhanmonster@gmail.com',
           data: $('.contact-form').serialize(),
           datatype: 'json'
         });
